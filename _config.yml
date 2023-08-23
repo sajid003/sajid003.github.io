@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weijian Zhang"
 title_separator          : "-"
 name                     : &name "Weijian Zhang"
-description              : &description "Master student at UCLA"
+description              : &description "PhD student at Purdue"
 url                      : https://wjzhang5464.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wjzhang5464.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weijian Zhang"
   avatar           : "zwj.jpg"
-  bio              : "Master student @ UCLA"
-  location         : "Los Angeles, California"
+  bio              : "PhD student @ Purdue"
+  location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "scottzhang64@ucla.edu"
+  email            : "zhan5056@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
