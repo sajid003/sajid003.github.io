@@ -10,8 +10,8 @@ redirect_from:
 
 Hello! I am now a 1st-year PhD student in the ECE department at **Purdue University**, working under [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html).
 
--Bio
--======
--I am a second-year M.S. student in the **Electrical and Computer Engineering Department** at **University of California, Los Angeles** (UCLA). Before that, I obtained a bachelor's degree in Optoelectronics Information Science and Engineering from University of Electronic Science and Technology of China (UESTC) in 2021. I ranked 2/134 in my major and graduated with honors both in UESTC and Sichuan Province, China.
+Bio
 
-During my undergraduate, I worked closely with Prof. Zhao Wang on optical coherence tomography (OCT) systems. At UCLA, I developed strong interests and built a solid basis in machine learning and optimization. My current research interests lie in **computational imaging, inverse problems, and optimization**. I play with optics and Fourier analysis, and enjoy integrating hardware designs with computational methods such as deep learning.
+Before becoming a Boilermaker, I obtained an M.S. degree in ECE from University of California, Los Angeles (UCLA) in 2023 and a bachelor's degree in Optoelectronics Information Science and Engineering from University of Electronic Science and Technology of China (UESTC) in 2021. At UCLA, I designed deep neural networks to detect AI-generated fake videos. During my undergraduate, I worked closely with Prof. Zhao Wang on optical coherence tomography (OCT) systems.
+
+My current research interests lie in the broad areas of **computational imaging, inverse problems, and optimization**. Outside the lab, I intend to become a street basketball player.
