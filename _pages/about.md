@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am recently graduated student ECE department at **North South University**. Currently I am working under working under [Asst. Prof. x](https://ece.northsouth.edu/).
+Hello! I am a recent graduated student from ECE department at **North South University**. Currently I am working under [Assoc. Prof. Md. Shahriar Karim]([https://ece.northsouth.edu/~shahriar.karim/]) on automatic image cropping and also under [Asst. Prof. Mohammad Shifat-E-Rabbi]([https://sites.google.com/view/m-shifat-e-rabbi/home]) on out-of-distribution detection.
 
-Bio
--
 
-I have obtained my undergraduate degree in Computer Science and Engineering from North South University, Dhaka in 2025. During my under graduate study I have worked with professor x on project y and professor M on project N.
-
-My current research interests lie in **computational imaging, out-of-distribution detection**. Outside the studies, like to do cycling and travelling.
+My current research interests lie in **image processing, computational imaging and out-of-distribution detection**. Outside the studies, like to do cycling and travelling.
