@@ -8,4 +8,4 @@ paperurl: '#'
 ---
 
 
-[Download paper here](#) *(Link pending)*
+[Download paper here](#) 
