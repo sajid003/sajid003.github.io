@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Objects Cannot Hide Behind The Shades - We Can See Through and Localize"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+status: review
+permalink: /publication/2026-objects-cannot-hide-tmlr
+excerpt: 'A novel approach to localizing camouflaged objects.'
+date: 2026-08-01
+venue: 'Under review at Transactions on Machine Learning Research (TMLR)'
+paperurl: '#'
+citation: 'N. S. Sajid, M. R. Khan and M. S. Karim. (2026). &quot;Objects Cannot Hide Behind The Shades - We Can See Through and Localize.&quot; <i>Under review at TMLR</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This research focuses on the localization of camouflaged objects that blend into their surroundings. 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](#) *(Link pending)*
