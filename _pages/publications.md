@@ -11,14 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-## Under Review
-{% assign review_papers = site.publications | where: "status", "review" %}
-{% for post in review_papers reversed %}
+## Under Review Publications
+{% assign review_papers = site.publications | where: "status", "review" | sort: "weight" %}
+{% for post in review_papers %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## Peer-Reviewed Publications
-{% assign published_papers = site.publications | where: "status", "published" %}
-{% for post in published_papers reversed %}
+{% assign published_papers = site.publications | where: "status", "published" | sort: "weight" %}
+{% for post in published_papers %}
   {% include archive-single.html %}
 {% endfor %}
