@@ -5,6 +5,7 @@ status: published
 permalink: /publication/2025-target-localization-cell
 venue: 'International Conference on Learning Representation (ICLR) LMRL Workshop 2025'
 paperurl: '#'
+weight: 2
 ---
 
 [Download paper here](#)
