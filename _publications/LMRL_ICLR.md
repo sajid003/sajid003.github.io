@@ -7,4 +7,4 @@ venue: 'Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025
 paperurl: '#'
 ---
 
-[Download paper here](#) *(Update with actual URL)*
+[Download paper here](#)
