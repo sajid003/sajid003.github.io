@@ -5,7 +5,7 @@ status: published
 permalink: /publication/2026-objects-cannot-hide-eccv
 venue: 'European Conference on Computer Vision (ECCV) CDEL Workshop 2026'
 paperurl: '#'
-weight:1
+weight: 1
 ---
 
 [Download paper here](#)
