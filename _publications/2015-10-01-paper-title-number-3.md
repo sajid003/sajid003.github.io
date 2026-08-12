@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "A Sliced-Wasserstein Distance Based Approach for Open Set Recognition"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+status: review
+permalink: /publication/2026-sliced-wasserstein-open-set
+excerpt: 'A mathematical model for open set recognition demonstrating competitive performance against existing deep learning and machine learning baselines.'
+date: 2026-09-01
+venue: 'Under review at Conference on Neural Information Processing Systems (NeurIPS) GDDL workshop 2026'
+paperurl: '#'
+citation: 'N. S. Sajid, M. Rahman, M. Subha, M. Shifat-E-Rabbi, S. Rahman and G. K. Rohde. (2026). &quot;A Sliced-Wasserstein Distance Based Approach for Open Set Recognition.&quot; <i>Under review at NeurIPS GDDL Workshop</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper introduces a mathematical model for open set recognition. We performed benchmarking of the proposed method against existing deep learning and machine learning methods, demonstrating competitive or superior performance.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](#) *(Link pending)*
