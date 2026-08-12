@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Objects Cannot Hide Behind The Shades - We Can See Through and Localize"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+status: published
+permalink: /publication/2026-objects-cannot-hide-eccv
+excerpt: 'Presentation of our camouflaged object localization method at the ECCV CDEL Workshop.'
+date: 2026-08-01
+venue: 'ECCV CDEL Workshop 2026'
+paperurl: '#'
+citation: 'N. S. Sajid, M. R. Khan and M. S. Karim. (2026). &quot;Objects Cannot Hide Behind The Shades - We Can See Through and Localize.&quot; Presented at <i>ECCV CDEL Workshop 2026</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This research focuses on the localization of camouflaged objects that blend into their surroundings, presented as a non-archival paper.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](#) *(Update with actual URL)*
