@@ -5,7 +5,7 @@ status: review
 permalink: /publication/2026-sliced-wasserstein-open-set
 venue: 'Under review at Conference on Neural Information Processing Systems (NeurIPS) GDDL workshop 2026'
 paperurl: '#'
-weight:2
+weight: 2
 ---
 
 [Download paper here](#)
