@@ -6,3 +6,4 @@ permalink: /publication/2026-objects-cannot-hide-eccv
 venue: 'ECCV CDEL Workshop 2026'
 paperurl: '#'
 ---
+[Download paper here](#)
