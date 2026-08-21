@@ -10,5 +10,5 @@ weight: 1
 
 <span style="color: red;">**Accepted for Oral Presentation.**</span>
 
-[Download paper here](/files/ECCV_CDEL.pdf)
+[Download paper here](https://sajid003.github.io/files/ECCV_CDEL.pdf)
 
