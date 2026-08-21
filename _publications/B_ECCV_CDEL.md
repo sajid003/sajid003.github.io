@@ -8,4 +8,4 @@ paperurl: 'https://sajid003.github.io/files/ECCV_CDEL.pdf'
 weight: 1
 ---
 
-[Download paper here](https://sajid003.github.io/files/ECCV_CDEL.pdf) [<span style="color: red; font-weight: bold;">Accepted for Oral Presentation</span>]
+[Download paper here](https://sajid003.github.io/files/ECCV_CDEL.pdf) [<span style="color: red; font-weight: bold;">Accepted for Oral Presentations</span>]
