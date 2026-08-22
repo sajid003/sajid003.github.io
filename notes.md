@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here are my course and study notes available for download:
+Here are my study notes available for download:
 
 <ul style="list-style-type: none; padding-left: 0;">
   
