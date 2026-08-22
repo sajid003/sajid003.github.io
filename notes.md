@@ -41,4 +41,9 @@ Here are my study notes available for download:
     <span style="color: #aaa; padding-right: 10px; font-weight: bold;">Upcoming</span>
   </li>
 
+  <li style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #eee; padding: 12px 0;">
+    <span><strong>Machine Learning</strong> <em style="color: #888; font-size: 0.9em;">[Work in Progress]</em></span>
+    <span style="color: #aaa; padding-right: 10px; font-weight: bold;">Upcoming</span>
+  </li>
+
 </ul>
