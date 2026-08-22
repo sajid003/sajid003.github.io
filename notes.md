@@ -14,18 +14,18 @@ Here are my course and study notes available for download:
   <!-- Note Item 1 -->
   <li style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #eee; padding: 12px 0;">
     <span><strong>Probability and Statistics</strong></span>
-    <a href="https://sajid003.github.io/files/prob_stats.pdf" class="btn btn--info btn--small">Download Notes</a>
+    <a href="https://sajid003.github.io/files/Probability_and_Statistics.pdf" class="btn btn--info btn--small">Download Notes</a>
   </li>
 
   <!-- Note Item 2 -->
   <li style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #eee; padding: 12px 0;">
     <span><strong>Computational Geometry</strong></span>
-    <a href="https://sajid003.github.io/files/comp_geo.pdf" class="btn btn--info btn--small">Download Notes</a>
+    <a href="https://sajid003.github.io/files/Computational_Geometry.pdf" class="btn btn--info btn--small">Download Notes</a>
   </li>
 
   <li style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #eee; padding: 12px 0;">
     <span><strong>Fourier</strong></span>
-    <a href="https://sajid003.github.io/files/comp_geo.pdf" class="btn btn--info btn--small">Download Notes</a>
+    <a href="https://sajid003.github.io/files/Fourier_Report.pdf" class="btn btn--info btn--small">Download Notes</a>
   </li>
 
   <li style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #eee; padding: 12px 0;">
