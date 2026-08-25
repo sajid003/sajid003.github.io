@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Under Review Publications
+## In preparation
 {% assign review_papers = site.publications | where: "status", "review" | sort: "weight" %}
 {% for post in review_papers %}
   {% include archive-single.html %}
