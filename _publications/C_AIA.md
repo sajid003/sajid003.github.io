@@ -3,7 +3,7 @@ title: "Semantic-Preserving Image Compression and Restoration Pipeline for Bandw
 collection: publications
 status: published
 permalink: /publication/2026-compression-AIA
-venue: 'Published at Artificial Intelligence and Applications (AIA)'
+venue: 'Published at Artificial Intelligence and Applications (AIA) 2026'
 paperurl: '#'
 weight: 10 
 ---
