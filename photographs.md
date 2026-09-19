@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here is a collection of my photography.
+A look through my eyes.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
   
