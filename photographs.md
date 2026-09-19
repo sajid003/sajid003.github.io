@@ -72,7 +72,7 @@ Here is a collection of my photography.
 
 <!-- Photo 2 -->
   <div>
-    <img src="https://sajid003.github.io/images/photographs/A_fly.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
+    <img src="https://sajid003.github.io/images/photographs/A_fly.png" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
   </div>
 
 
