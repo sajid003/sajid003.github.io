@@ -63,10 +63,6 @@ A look through my eyes.
     <img src="https://sajid003.github.io/images/photographs/Giant_by_the_bay.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
   </div>
 
-  <!-- Photo 2 -->
-  <div>
-    <img src="https://sajid003.github.io/images/photographs/Hardinge_Bridge.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
-  </div>
 
   
 
@@ -74,7 +70,15 @@ A look through my eyes.
   <div>
     <img src="https://sajid003.github.io/images/photographs/A_blooming_flower.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
   </div>
-  
+
+
+  <!-- Photo 2 -->
+  <div>
+    <img src="https://sajid003.github.io/images/photographs/Hardinge_Bridge.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
+  </div>
+
+
+
 <!-- Photo 2 -->
   <div>
     <img src="https://sajid003.github.io/images/photographs/A_fly.png" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
