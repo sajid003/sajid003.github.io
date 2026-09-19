@@ -10,11 +10,28 @@ author_profile: true
 A look through my eyes.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
-  
-  <!-- Photo 1 -->
+
+
+<!-- Photo 1 -->
   <div>
-    <img src="https://sajid003.github.io/images/photographs/A_blooming_flower.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
+    <img src="https://sajid003.github.io/images/photographs/Sunset_by_the_river.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
   </div>
+
+  <!-- Photo 2 -->
+  <div>
+    <img src="https://sajid003.github.io/images/photographs/Where_water_and_mountains_meet.webp" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
+  </div>
+
+
+  
+  <!-- Photo 3 -->
+  <div>
+    <img src="https://sajid003.github.io/images/photographs/sand_river_and_green.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
+  </div>
+
+
+  
+  
 
   
 
@@ -55,21 +72,9 @@ A look through my eyes.
 
   <!-- Photo 1 -->
   <div>
-    <img src="https://sajid003.github.io/images/photographs/Sunset_by_the_river.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
+    <img src="https://sajid003.github.io/images/photographs/A_blooming_flower.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
   </div>
-
-  <!-- Photo 2 -->
-  <div>
-    <img src="https://sajid003.github.io/images/photographs/Where_water_and_mountains_meet.webp" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
-  </div>
-
-
   
-  <!-- Photo 3 -->
-  <div>
-    <img src="https://sajid003.github.io/images/photographs/sand_river_and_green.jpg" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
-  </div>
-
 <!-- Photo 2 -->
   <div>
     <img src="https://sajid003.github.io/images/photographs/A_fly.png" alt="Description of photo 1" style="width: 100%; border-radius: 5px; display: block;" />
