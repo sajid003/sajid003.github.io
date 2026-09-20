@@ -38,7 +38,7 @@ A look through my eyes.
   <!-- Photo 5 -->
   <div>
     <img src="https://sajid003.github.io/images/photographs/A_peacefully_resting_dog_on_a_hot_summer_day.jpg" alt="Rest in a hot summer day" style="width: 100%; border-radius: 5px; display: block;" />
-    <div style="font-size: 0.85em; color: #777; text-align: center; margin-top: 8px; font-style: italic;">Rest in a hot summer day</div>
+    <div style="font-size: 0.85em; color: #777; text-align: center; margin-top: 8px; font-style: italic;">A hot summer day</div>
   </div>
 
   <!-- Photo 6 -->
