@@ -77,10 +77,11 @@ A look through my eyes.
     <div style="font-size: 0.85em; color: #777; text-align: center; margin-top: 8px; font-style: italic;">Radial Symmetry</div>
   </div>
 
-  <!-- Photo 12 -->
+  <!-- Photo 12 
   <div>
     <img src="https://sajid003.github.io/images/photographs/A_fly.png" alt="Voronoi tessellation" style="width: 100%; border-radius: 5px; display: block;" />
     <div style="font-size: 0.85em; color: #777; text-align: center; margin-top: 8px; font-style: italic;">Voronoi tessellation</div>
   </div>
+  -->
 
 </div>
