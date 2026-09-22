@@ -23,8 +23,8 @@ main:
  - title: "Notes"
    url: /notes/
 
- - title: "Misc."
-   url: /photographs/
+ # - title: "Misc."
+ #   url: /photographs/
    
 #  - title: "Guide"
 #    url: /markdown/
